@@ -1,7 +1,7 @@
 {
   "name": "cc",
   "display_name": "cotton candy nights",
-  "manifest_version": 8,
+  "manifest_version": 9,
   "version": "v1.1",
   "inject": {
     "desktop.css": [
